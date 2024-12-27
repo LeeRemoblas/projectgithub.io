@@ -49,6 +49,11 @@ img {
     text-decoration: none;
     color: #142a41;
     font-weight: bold;
+    transition: 0.8s ease;
+}
+
+.menu a:hover{
+    color: #ddd; 
 }
 /* Hide Burger Menu for Desktop */
 .burger-menu {
