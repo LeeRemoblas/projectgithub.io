@@ -660,7 +660,8 @@ img {
         margin: 0 auto;
         margin-bottom: 10px;
         padding-top: 20px;
-        padding-bottom: 15px
+        padding-bottom: 15px;
+        margin-left: -30px;
     }
 
     .contact-us ul{
